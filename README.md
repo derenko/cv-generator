@@ -1,1 +1,7 @@
-"# cv-generator" 
+# SV Generator
+
+### Tools
+
+- react
+- typescript
+- bulma
